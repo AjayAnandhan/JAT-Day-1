@@ -1,4 +1,4 @@
-----STLC Phases----
+---STLC Phases---
 
 
 1. Requirement Analysis:

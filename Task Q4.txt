@@ -1,4 +1,4 @@
-----Difference between Waterfall and Agile methedologies----
+---Difference between Waterfall and Agile methedologies---
     The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
 
 Waterfall Model:-
