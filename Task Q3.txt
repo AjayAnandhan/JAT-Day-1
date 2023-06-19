@@ -1,0 +1,32 @@
+----Qualities as a Manuel tester ans Examples----
+
+
+1. Don’t Compromise On Quality
+    I don’t compromise after certain testing stages. There is no limit for testing until I produce a quality product. Quality is a word made by Software testers to achieve more effective testing. 
+
+2. Curiosity
+    As a tester, I have to question anything and everything that is unclear. Always wonder, “What will happen if I click on ‘Submit’ button twice? Or thrice? Or what will happen if I click on the ‘Submit’ button and then hit the ‘Escape’ key? What will happen if I post a comment with just a white space?”
+
+3. Discipline
+    I'm a tester. At my job, either i'm holding a release gate or my opinion about the test object’s quality that will decide if the gate should be opened or not. I have the responsibility of highlighting the current and future risks. Therefore, by no means, I can afford to miss anything- not the important tests/activities/communication.
+
+4. Imagination
+    Imagination is above all else because of its endless length, breadth, and height. I'll not restrict my thinking when testing. I have to imagine the unimaginable – the rare and the rarest. Imagine now and 100 years from now.
+
+5. Be Skeptical
+    I Don’t believe that the build given by the developers is Bug-free or quality outcome. I will accept the build only if i test it and find it defect free.
+
+6. Think from the Users Perspective
+    Every product is developed for the customers. Customers may or may not be technical persons. If I don’t consider the scenarios from their perspective, I will miss many important bugs. I will know my end-users first. Their age, education and even location can matter most while using the product.
+
+7. Open to Suggestions
+    Listen to everyone even though you are an authority on the project having in-depth project knowledge.
+
+8. Do Market Research
+    I don’t think that my responsibility is just to validate software against the set of requirements. I'll be proactive and i'll do a product market research and provide suggestions to improve it. This research will also help you to understand your product and its market.
+
+9. Focus on the Negative Side as well
+    Testers should have the test to break attitude. Concentrating only on the positive side will almost certainly create many security issues in my application. I should be the hacker of my project to keep other hackers away from it. Negative testing is equally important.
+
+10. Be a Good Observer
+     Observe things happening around. Keep track of all major and minor things in project. Observe the way of developing the code, types of testing and its objectives. Observe and understand the test progress and make the necessary changes if it is off track in terms of schedule or testing activities.

@@ -1,0 +1,21 @@
+----Difference between Waterfall and Agile methedologies----
+
+    The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
+
+Waterfall Model:-
+    The waterfall model is a universally accepted SDLC model. In this method, the whole process of software development is divided into various phases. The development in the waterfall model is seen as flowing steadily downwards (like a waterfall) as it is a continuous software development model. This model is named "Waterfall Model", because its diagrammatic representation resembles a cascade of waterfalls. Some important points related to the waterfall model are listed as follows -
+
+        -> Waterfall model is not an ideal model to develop a large scale project size.
+        -> The requirements in the waterfall model should be clear cut at the beginning time; otherwise, it may lead to a less effective method.
+        -> In the waterfall model, it is hard to move back in order to make changes in the previous phase.
+        -> The testing process in the waterfall model starts after the completion of development. So, there is a high chance of bugs to be found later in the project development.
+
+Agile Model:-
+    In the Agile method, the entire project is divided into small incremental builds. All of these builds are provided in iterations, and each iteration lasts from one to three weeks.Agile development methodology and testing practices have worked wonders for several organizations with positive aspects. The positive aspects of agile are not hidden. They are very much visible in organizations. There are some of the important points related to the agile model listed as follows -
+
+        -> Agile focuses on customer feedback, collaboration, small and rapid releases.
+        -> Its purpose is to manage complex projects.
+        -> The Agile produces better application suites with the desired requirements. Moreover, it can quickly adapt according to the changes made on time during the project life.
+        -> It has a small team size. Therefore, fewer people work on it so that they can move faster.
+        -> The agile model is not a suitable model for small projects. The expenses of developing the small projects using agile are more than compared to other models.
+        -> In agile methodology, the interaction of customers is very high, as after each iteration an incremental model is deployed to customers.

@@ -1,0 +1,47 @@
+----Different Types of Testing----
+
+
+1. Unit Testing 
+    Unit testing is a software development process in which the smallest testable parts of an application, called units, are individually scrutinized for proper operation.
+
+2. Integration Testing 
+    Integration testing is the phase in software testing in which individual software modules are combined and tested as a group.
+
+3. Regression Testing 
+    Regression testing is performed to find out whether the updates or changes had caused new defects in the existing functions.
+
+4. Smoke Testing 
+    Smoke testing, also called build verification testing or confidence testing, is a software testing method that is used to determine if a new software build is ready for the next testing phase. 
+
+5. Sanity Testing 
+    Sanity Testing or Surface Level testing is a type of testing which is performed on the stable build of the software. 
+
+6. Acceptance Testing 
+    Acceptance testing is a quality assurance (QA) process that determines to what degree an application meets end users' approval.
+
+7. Load Testing 
+    Load testing examines how the system behaves during normal and high loads and determines if a system, piece of software, or computing device can handle high loads given a high demand of end-users. 
+
+8. Non Functional Testing 
+    Non functional testing is a type of software testing that verifies non functional aspects of the product, such as performance, stability, and usability.
+
+9. Performance Testing 
+    Performance testing is a non-functional software testing technique that determines how the stability, speed, scalability, and responsiveness of an application holds up under a given workload. 
+
+10. Black Box Testing 
+    Black box testing involves testing against a system where the code and paths are invisible. 
+
+11. Functional Testing 
+    Functional testing checks an application, website, or system to ensure it’s doing exactly what it’s supposed to be doing. 
+
+12. Security Testing 
+    Security testing is a process intended to reveal flaws in the security mechanisms of an information system that protect data and maintain functionality as intended.
+
+13. End to End Testing 
+    End-to-end testing, also known as E2E testing, is a way to make sure that applications behave as expected and that the flow of data is maintained for all kinds of user tasks and processes. 
+
+14. Stress Testing 
+    Stress testing is a form of deliberately intense or thorough testing, used to determine the stability of a given system, critical infrastructure or entity. 
+
+15. White Box Testing 
+    White box testing involves testing the product's underlying structure, architecture, and code to validate input-output flow and enhance design, usability, and security. 
